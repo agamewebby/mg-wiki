@@ -25,6 +25,17 @@ MG is a manageable — though not yet curable — condition. With the right trea
 
 ## Navigation
 
+### New to MG? Start here
+
+| Page | What you will find |
+|---|---|
+| [What is happening in my body?](plain-what-is-mg.md) | A plain-English guide — no medical background needed |
+| [What will I feel?](plain-symptoms.md) | Symptoms explained simply |
+| [What are my treatment options?](plain-treatments.md) | Every treatment approach in plain language |
+| [What is a crisis?](plain-crisis.md) | When to worry and when to go to hospital |
+| [Is there hope?](plain-future.md) | What researchers are working on, in plain English |
+| [Living well with MG](plain-living-well.md) | Everyday tips, diet, stress, and complementary approaches |
+
 ### Understanding MG
 
 | Page | What you will find |
@@ -56,6 +67,7 @@ MG is a manageable — though not yet curable — condition. With the right trea
 | [Anaesthesia and MG](anaesthesia.md) | Anaesthetic planning, muscle relaxants, steroid cover |
 | [Pregnancy and MG](pregnancy-and-mg.md) | Pre-conception planning, drug safety, labour, neonatal MG |
 | [Diet and Lifestyle](diet-lifestyle.md) | Diet, alcohol, exercise, hot weather, fatigue management |
+| [Complementary Therapies](complementary-therapies.md) | TCM, Ayurveda, acupuncture, herbal evidence, safety and contraindications |
 | [Skin Care on Immunosuppressants](skin-immunosuppressants.md) | Skin cancer risk and prevention |
 | [Living with MG](living-with-mg.md) | Practical daily tips, pacing, quality of life |
 
@@ -71,4 +83,4 @@ MG is a manageable — though not yet curable — condition. With the right trea
 
 This wiki was compiled from multiple sources including the NHS, NINDS, Myaware, MDA, and peer-reviewed medical literature (including the *Journal of Clinical Investigation*). It is intended to support informed conversations with healthcare professionals — not to replace individual medical advice. MG is a complex and rapidly evolving field; always discuss treatment decisions with a specialist neurologist experienced in neuromuscular disease.
 
-*Last updated: 2026-04-12 (sync 5)*
+*Last updated: 2026-04-10 (sync 6)*

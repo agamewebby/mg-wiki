@@ -82,12 +82,44 @@ See [Diet and Lifestyle](diet-lifestyle.md) for more detail.
 
 ## Manage Stress
 
-Stress can worsen MG — both physical stress and emotional stress. While it is impossible to eliminate stress entirely, there are things that can help:
+Stress can worsen MG — both physical stress and emotional stress. The mechanism is direct: stress raises cortisol, which destabilises the regulatory T-cells (Tregs) that keep the immune response in check. When Tregs fail, MG activity tends to increase. Managing stress is not just about feeling better — it has measurable immune effects.
 
-- **Relaxation techniques**: mindfulness, meditation, and breathing exercises can be helpful
+While it is impossible to eliminate stress entirely, there are things that can help:
+
+### Meditation and Mindfulness
+
+Mindfulness-Based Stress Reduction (MBSR) and other meditation practices have been shown in multiple randomised controlled trials to:
+- Reduce inflammatory cytokines (IL-6, TNF-alpha, CRP) in autoimmune populations
+- Lower cortisol levels, directly protecting Treg stability
+- Reduce anxiety and improve quality of life in people with chronic conditions
+
+Even 10–20 minutes of daily mindfulness practice can have measurable effects over 8 weeks. Free guided sessions are available through apps such as Headspace and Calm, and through NHS-linked services.
+
+### Tai Chi
+
+Tai chi is particularly well-suited to MG. It is:
+- **Gentle and low-impact** — controlled, slow movements that do not exhaust muscles
+- **Adaptable** — can be done seated during flares
+- Backed by a growing evidence base in autoimmune and neuromuscular conditions: RCTs show improvements in balance, fatigue, and quality of life
+
+Tai chi also incorporates mindfulness and breath control, making it a stress management tool as well as a physical one.
+
+### Yoga
+
+Yoga can benefit MG when practised with appropriate modifications:
+- **Restorative and Yin yoga** styles are best suited — these are passive, cooling, and focus on gentle opening rather than strength or heat
+- **Avoid vigorous or hot yoga** (e.g., Bikram/hot yoga) — heat worsens MG symptoms
+- Breathing practices (pranayama) within yoga have demonstrated effects on cortisol and parasympathetic (rest-and-digest) nervous system tone
+- Tell any yoga teacher about your MG — a good teacher will adapt poses for you
+
+### Other Helpful Approaches
+
 - **Talking**: sharing how you feel with someone you trust — a friend, family member, or support group — can lighten the load
+- **Breathing exercises**: slow diaphragmatic breathing activates the parasympathetic nervous system and reduces cortisol within minutes
 - If stress or anxiety is significantly affecting your life, your GP can help with referral to talking therapies or other support
 - **Myaware** (UK) offers emotional support: contact support@myaware.org
+
+See also [Complementary Therapies](complementary-therapies.md) for evidence-based approaches including acupuncture and specific herbs with documented stress-reducing and immune-modulating effects.
 
 ---
 
@@ -182,6 +214,7 @@ Accept help when it is offered — this is not weakness, it is wisdom. Having su
 ## Related pages
 
 - [Diet and Lifestyle](diet-lifestyle.md)
+- [Complementary Therapies](complementary-therapies.md)
 - [Anaesthesia and MG](anaesthesia.md)
 - [Skin Care on Immunosuppressants](skin-immunosuppressants.md)
 - [Symptoms](symptoms.md)

@@ -125,6 +125,38 @@ However, the safest approach is always to check with your MG specialist or neuro
 - Some over-the-counter preparations contain drugs that can worsen MG — particularly those containing **magnesium** or **quinine**
 - Always read labels; ask the pharmacist if unsure
 
+### Herbal Medicines and Supplements
+
+Herbal medicines and nutritional supplements are not regulated in the same way as pharmaceutical drugs, but several carry significant risks in MG. This is an area often overlooked — always tell your neurologist about any herbal or supplement use.
+
+**Definitively contraindicated — never use in MG:**
+
+- **Huperzine A** (from *Huperzia serrata*, found in many "brain health" supplement formulas) — potent acetylcholinesterase inhibitor. Combining with pyridostigmine can cause additive cholinergic toxicity: excess salivation, severe GI cramping, muscle twitching, and in extreme cases cholinergic crisis. This combination must be avoided entirely.
+- **Curare-containing plants** (*Strychnos toxifera*, *Chondrodendron tomentosum*) — directly block neuromuscular transmission
+- **Gelsemium sempervirens (Yellow Jasmine)** — found in some homeopathic preparations; inhibits nerve transmission
+- **Quinine-containing herbs** (Cinchona bark, high-dose Artemisia) — neuromuscular blocking properties that worsen MG
+
+**Requiring high caution:**
+
+- **Therapeutic-dose magnesium supplements** — inhibit acetylcholine release at the neuromuscular junction; dietary magnesium from food is safe but supplement doses are not
+- **Immune-stimulating mushroom extracts at pharmacological doses** (Maitake, Shiitake, Reishi extract) — may upregulate the pathogenic immune response. Culinary amounts are generally fine
+- **Echinacea (long-term)** — non-specific immune stimulant; may upregulate autoantibody production. Short-term for acute infection may be acceptable; long-term prophylactic use is not advised
+- **Bacopa monnieri (high dose)** — weakly inhibits acetylcholinesterase; at high doses may cause additive cholinergic effects when combined with pyridostigmine
+
+**Drug interaction risks with MG medications:**
+
+| Herb / Supplement | MG Medication at Risk | Interaction |
+|---|---|---|
+| St John's Wort | Cyclosporin, tacrolimus, MMF, biologics | CYP3A4 induction — reduces drug levels, risks loss of immunosuppression |
+| Grapefruit / Bergamot | Cyclosporin, tacrolimus | CYP3A4 inhibition — increases drug toxicity |
+| High-dose liquorice root | Corticosteroids | Potentiates steroid effects, Cushing-like side effects |
+| High-dose turmeric / curcumin | Azathioprine | Inhibits thiopurine S-methyltransferase at high doses |
+| Kava | Azathioprine, MMF | Hepatotoxicity risk compounded |
+| Bacopa monnieri (high dose) | Pyridostigmine | Additive acetylcholinesterase inhibition |
+| Huperzine A | Pyridostigmine | Additive AChE inhibition — absolutely contraindicated |
+
+See [Complementary Therapies](complementary-therapies.md) for further detail on herbal approaches and their evidence base in MG.
+
 ### Emergency Situations
 
 - If you are treated in an emergency and cannot communicate, having a medical alert card or bracelet is invaluable
@@ -141,6 +173,7 @@ This page refers to drugs to avoid specifically in relation to **myasthenia grav
 ## Related pages
 
 - [Anaesthesia and MG](anaesthesia.md)
+- [Complementary Therapies](complementary-therapies.md)
 - [Myasthenic Crisis](myasthenic-crisis.md)
 - [Causes](causes.md)
 - [Living with MG](living-with-mg.md)

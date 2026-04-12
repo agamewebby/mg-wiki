@@ -18,6 +18,45 @@ A healthy, well-balanced diet supports overall health and helps your body functi
 
 **Is there a specific MG diet?** No — as of yet, there is no medically proven specific diet that alleviates MG symptoms. General healthy eating principles apply.
 
+### Anti-Inflammatory and Mediterranean Eating Patterns
+
+While no diet cures MG, growing evidence suggests that anti-inflammatory eating patterns — particularly the **Mediterranean diet** — may help reduce the chronic inflammation that underlies autoimmune conditions.
+
+A 2021 systematic review found that Mediterranean diet adherence was associated with reduced inflammatory markers (CRP, IL-6, TNF-alpha) across multiple autoimmune populations. These are the same cytokines elevated in MG.
+
+**The Mediterranean approach in practice:**
+- **Emphasise:** olive oil, oily fish (salmon, mackerel, sardines — rich in omega-3), colourful vegetables, legumes, whole grains, nuts and seeds, fruit
+- **Moderate:** lean poultry, eggs, dairy
+- **Limit:** red and processed meat, refined carbohydrates, sugar, ultra-processed foods, seed oils (sunflower, corn) high in omega-6
+
+**Why omega-3 matters in MG:** Fish oils reduce production of pro-inflammatory cytokines (IL-1β, TNF-alpha, IL-6) via EPA and DHA. They also reduce Th17 cell differentiation — the same T-cell imbalance central to MG pathology. Dietary sources are preferable; supplements (1–2g/day EPA+DHA) are safe alongside most MG medications.
+
+### Gut Health and the Microbiome
+
+Emerging research links gut microbiome composition to MG disease activity. People with MG show distinct microbiome patterns — reduced populations of beneficial bacteria that produce short-chain fatty acids (SCFAs), and increased populations associated with inflammatory responses.
+
+SCFAs (produced when gut bacteria ferment dietary fibre) stimulate regulatory T-cells (Tregs) — the very immune cells whose failure drives MG. This is the same pathway exploited by Astragaloside IV in traditional Chinese medicine approaches.
+
+**Practical gut-health strategies:**
+- Eat a **wide variety of plant foods** — diversity of gut bacteria is associated with better immune regulation
+- Include **fermented foods** where tolerated: plain live yoghurt, kefir, sauerkraut, kimchi, miso — these introduce beneficial bacteria
+- Prioritise **dietary fibre** from vegetables, legumes, oats, and whole grains — fibre feeds SCFA-producing bacteria
+- Probiotics (specifically *Lactobacillus* and *Bifidobacterium* strains) show early promise in immune regulation; discuss with your specialist before using supplement doses
+
+### Supplements Table
+
+| Supplement | Relevance to MG | Safety Alongside MG Medications |
+|---|---|---|
+| Vitamin D | Deficiency documented in MG cohorts; directly supports FOXP3 expression and Treg stability. Correct deficiency to normal range | Safe; may modestly enhance immunosuppressant effect. Discuss dose with doctor |
+| Omega-3 (fish oil) | Anti-inflammatory; reduces IL-17, TNF-alpha; supports Th17/Treg balance | Generally safe at 1–2g/day. Higher doses may mildly thin blood — caution with anticoagulants |
+| Probiotics | Support gut SCFA production → Treg induction | Generally safe; avoid high-dose immunostimulatory strains if on biologics |
+| Curcumin (turmeric) | Anti-inflammatory via NF-κB inhibition | **Caution at high doses (>2g/day extract):** inhibits thiopurine S-methyltransferase — may affect azathioprine metabolism. Dietary turmeric in food is safe |
+| Magnesium (supplement) | **Avoid therapeutic doses** — inhibits acetylcholine release at the neuromuscular junction. Dietary magnesium from food is safe | **Therapeutic supplements contraindicated in MG** |
+| High-dose Vitamin C | Antioxidant; generally safe | Safe at normal supplementary doses |
+| Zinc | Supports immune regulation; often low in people on long-term steroids | Safe at normal supplementary doses (≤25mg/day) |
+
+**Always discuss supplements with your neurologist**, particularly at therapeutic doses. See also [Complementary Therapies](complementary-therapies.md) and [Drugs to Avoid](drugs-to-avoid.md) for herbal supplement interactions.
+
 ### Eating Little and Often
 
 MG can cause fatigue with chewing and difficulty swallowing. With this in mind:
@@ -183,6 +222,7 @@ If you struggle with swallowing:
 ## Related pages
 
 - [Living with MG](living-with-mg.md)
+- [Complementary Therapies](complementary-therapies.md)
 - [Symptoms](symptoms.md)
 - [Skin Care on Immunosuppressants](skin-immunosuppressants.md)
 - [Drugs to Avoid](drugs-to-avoid.md)
