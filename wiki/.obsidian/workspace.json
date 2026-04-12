@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "591fd9fe78014119",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d2a0c0cf48b8760",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c31f3308d16a6794",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "research-future.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "research-future"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a614e1f56c388159",
+    "type": "split",
+    "children": [
+      {
+        "id": "2601859d2d881559",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f88d982430777fe3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a54021f63a14c2f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d178c8d9128792ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10ef3e69e7f732f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8961423fbd23c88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77a49de27aa254a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "causes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for causes"
+            }
+          },
+          {
+            "id": "35c071b081b01361",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "causes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from causes"
+            }
+          },
+          {
+            "id": "d528a61c2f3cbc24",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "20e2c18fbec89e1e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a08feed4cebc8fb3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "causes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of causes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c31f3308d16a6794",
+  "lastOpenFiles": [
+    "causes.md",
+    "treatments-surgical.md",
+    "treatments-emerging.md",
+    "treatments-symptomatic.md",
+    "treatments-immunosuppression.md",
+    "skin-immunosuppressants.md",
+    "treatments-biologics.md",
+    "treatments-acute.md",
+    "diagnosis.md",
+    "diet-lifestyle.md",
+    "drugs-to-avoid.md",
+    "index.md",
+    "living-with-mg.md",
+    "research-future.md",
+    "what-is-mg.md",
+    "types.md",
+    "treatments.md"
+  ]
+}
