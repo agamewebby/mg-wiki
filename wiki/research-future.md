@@ -105,6 +105,7 @@ The pace of approvals has been remarkable:
 | Batoclimab / IMVT-1402 | FcRn | Clinical development |
 | HSCT | Immune reset | Case series; very selected patients |
 | AAV decoy receptors | AChR (gene therapy) | Preclinical |
+| **Mya-Keto Diet** | Gut-muscle-brain axis; autoantibody titres | RCT ongoing (Charité Berlin, 2025–2026) — first dietary trial in MG |
 
 ---
 

@@ -90,9 +90,12 @@ The most widely used first-line non-steroidal agent globally.
     - **Allopurinol or Febuxostat:** **CRITICAL INTERACTION.** These drugs inhibit xanthine oxidase (the enzyme that breaks down azathioprine metabolites), leading to life-threatening bone marrow toxicity. If unavoidable, reduce AZA dose by 75%.
     - **ACE Inhibitors:** May increase the risk of leukopenia.
     - **Warfarin:** Azathioprine may decrease the anticoagulant effect.
+    - **High-dose curcumin supplements (>2g/day):** May inhibit TPMT (the same enzyme tested before starting azathioprine), potentially increasing azathioprine toxicity. Culinary turmeric in food is safe; therapeutic-dose supplements should be discussed with your neurologist.
+    - **Grapefruit:** May affect CYP enzyme metabolism — discuss with pharmacist.
 - **Monitoring Requirements:**
     - **Pre-treatment:** **Mandatory TPMT (thiopurine methyltransferase)** testing to identify patients at high risk for severe myelosuppression.
     - **Ongoing:** Full Blood Count (FBC) and Liver Function Tests (LFTs) (weekly for 4–8 weeks, then every 3 months once stable).
+    - **Macrocytosis note:** Azathioprine commonly causes a raised MCV (mean corpuscular volume) on the blood count — this is a benign marker of drug activity, not a sign of B12 deficiency. However, if MCV is raised, your doctor will check B12 levels to distinguish between the two causes.
 - **Special Populations:**
     - **Pregnancy:** Generally considered the safest steroid-sparing agent if therapy is essential.
     - **Elderly:** May require lower starting doses due to age-related changes in metabolism and renal clearance.

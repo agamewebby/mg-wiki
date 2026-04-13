@@ -50,7 +50,15 @@ There is no magic MG diet, but eating well makes a real difference.
 Eating more oily fish (salmon, sardines, mackerel), colourful vegetables, olive oil, nuts, and legumes — and less processed food, sugar, and fried food — reduces the background inflammation that drives MG. You do not need to follow a strict diet; just a general shift in this direction helps.
 
 **Gut health matters:**
-A healthy gut is good for your immune system. Plain live yoghurt, fermented foods (like kefir, sauerkraut), and eating a wide variety of vegetables and high-fibre foods all support the beneficial bacteria in your gut — which in turn help your immune system work better.
+A healthy gut is good for your immune system. Plain live yoghurt, fermented foods (like kefir, sauerkraut), and eating a wide variety of vegetables and high-fibre foods all support the beneficial bacteria in your gut — which in turn help your immune system work better. A clinical trial at Stanford University found that people eating fermented foods daily reduced 19 different inflammation-causing proteins in their blood. It is a simple, practical change with real evidence behind it.
+
+**Have you heard of the Wahls Protocol?**
+The Wahls Protocol is a structured dietary approach — originally developed for multiple sclerosis (a condition that shares some immune mechanisms with MG) — based on eating large amounts of specific vegetables, removing gluten and dairy, and supporting gut health. Some people with MG have explored it. It has some clinical trial evidence in MS. There are no published MG trials yet, but the underlying principles (reducing inflammation, supporting gut bacteria, and immune balance) are relevant.
+
+The simplest version involves eating 9 cups of vegetables and fruit per day across three groups: dark leafy greens, sulphur-rich vegetables (broccoli, cabbage, garlic), and brightly coloured vegetables. This is a significant increase in plant variety for most people — and on its own this shift is likely beneficial regardless of the full protocol. If you are interested, discuss it with your neurologist and a dietitian.
+
+**What about gluten-free or dairy-free diets?**
+For most people with MG, eliminating gluten or dairy is not proven to help. If you have coeliac disease (gluten sensitivity) as well as MG, a gluten-free diet may reduce your overall immune activation and secondarily benefit your MG. For everyone else, there is no strong evidence for these restrictions — and avoiding dairy can actually be harmful if you are on steroids, because dairy is an important source of calcium for your bones.
 
 ---
 

@@ -83,4 +83,4 @@ MG is a manageable — though not yet curable — condition. With the right trea
 
 This wiki was compiled from multiple sources including the NHS, NINDS, Myaware, MDA, and peer-reviewed medical literature (including the *Journal of Clinical Investigation*). It is intended to support informed conversations with healthcare professionals — not to replace individual medical advice. MG is a complex and rapidly evolving field; always discuss treatment decisions with a specialist neurologist experienced in neuromuscular disease.
 
-*Last updated: 2026-04-10 (sync 6)*
+*Last updated: 2026-04-13 (sync 7)*

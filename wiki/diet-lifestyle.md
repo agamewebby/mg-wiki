@@ -43,6 +43,8 @@ SCFAs (produced when gut bacteria ferment dietary fibre) stimulate regulatory T-
 - Prioritise **dietary fibre** from vegetables, legumes, oats, and whole grains — fibre feeds SCFA-producing bacteria
 - Probiotics (specifically *Lactobacillus* and *Bifidobacterium* strains) show early promise in immune regulation; discuss with your specialist before using supplement doses
 
+**The evidence for fermented foods:** A Stanford University RCT (2021, published in *Cell*) compared a high-fermented-foods diet against a high-fibre diet over 10 weeks. The fermented foods group reduced 19 different inflammatory proteins — including IL-6 — and increased microbiome diversity. Notably, the high-fibre group did not show the same reduction in inflammatory proteins, suggesting fermented foods may be more effective than fibre alone for rapid immune modulation. Note: some mature fermented foods (aged cheeses, certain fermented meats) are high in histamine, which may aggravate symptoms in histamine-sensitive individuals.
+
 ### Supplements Table
 
 | Supplement | Relevance to MG | Safety Alongside MG Medications |
@@ -54,8 +56,51 @@ SCFAs (produced when gut bacteria ferment dietary fibre) stimulate regulatory T-
 | Magnesium (supplement) | **Avoid therapeutic doses** — inhibits acetylcholine release at the neuromuscular junction. Dietary magnesium from food is safe | **Therapeutic supplements contraindicated in MG** |
 | High-dose Vitamin C | Antioxidant; generally safe | Safe at normal supplementary doses |
 | Zinc | Supports immune regulation; often low in people on long-term steroids | Safe at normal supplementary doses (≤25mg/day) |
+| Selenium | Cofactor for antioxidant enzymes; may be low in autoimmune thyroid disease (which co-occurs more often in MG) | 1–2 Brazil nuts daily is sufficient; avoid megadose supplements |
+| Vitamin B12 | Important for nerve health; azathioprine causes macrocytosis (raised MCV) that must be distinguished from B12 deficiency | Monitor B12 levels if MCV is raised on azathioprine |
+| Potassium | Depleted by long-term steroids; important for heart and muscle function | Dietary sources preferred (bananas, leafy greens); high-dose supplements require monitoring |
 
 **Always discuss supplements with your neurologist**, particularly at therapeutic doses. See also [Complementary Therapies](complementary-therapies.md) and [Drugs to Avoid](drugs-to-avoid.md) for herbal supplement interactions.
+
+### Therapeutic Dietary Approaches
+
+Beyond general healthy eating, some people with MG explore structured dietary approaches. The evidence varies; all require neurologist consultation before major dietary changes.
+
+#### The Wahls Protocol
+
+The Wahls Protocol is a structured therapeutic diet developed by Dr. Terry Wahls, a clinical professor who used dietary intervention alongside conventional treatment to address her own progressive multiple sclerosis. It has attracted attention across autoimmune conditions because it targets mechanisms shared across diseases — gut health, mitochondrial function, and anti-inflammatory pathways.
+
+**The three levels:**
+1. **Wahls Diet (Level 1):** 9 cups of produce daily — 3 cups dark leafy greens, 3 cups sulphur-rich vegetables (broccoli, cabbage, onions), 3 cups deeply coloured vegetables and fruit. Eliminates gluten and dairy.
+2. **Wahls Paleo (Level 2):** Adds organ meats (twice weekly), seaweed, and fermented foods; removes non-gluten grains, legumes, and white potatoes.
+3. **Wahls Paleo Plus (Level 3):** A ketogenic (fat-burning) adaptation with reduced carbohydrates, intermittent fasting, and emphasis on healthy fats.
+
+**Evidence:** The WAVES RCT (2021) compared the Wahls Protocol against the Swank Diet in progressive MS. Both produced significant reductions in fatigue and improved quality of life; the Wahls Protocol showed advantages in some functional and mental health scores. A nutritional adequacy study (*Nutrients*, 2019) confirmed it meets most recommended dietary allowances despite eliminating dairy and grains, provided Vitamin D and calcium are supplemented.
+
+**Relevance to MG:** There are no published RCTs of the Wahls Protocol specifically in MG. Its relevance is extrapolated from shared mechanisms — Th17/Treg imbalance, gut dysbiosis, and mitochondrial stress. It may be of interest to patients who want a structured, evidence-informed dietary framework. Discuss with your neurologist before starting, particularly regarding calcium and Vitamin D supplementation if dairy is eliminated.
+
+#### Elimination Diets (Gluten-Free and Dairy-Free)
+
+**Honest assessment:** For the general MG population, there is currently no medically proven evidence that eliminating gluten or dairy improves MG symptoms. The Myasthenia Gravis Foundation of America (MGFA) focuses on balanced nutrition rather than restriction.
+
+Where elimination diets do show benefit is in a specific subgroup: people with **comorbid coeliac disease or non-coeliac gluten sensitivity**. In these cases, gluten reduction decreases systemic immune activation, which can secondarily improve autoimmune disease control. Before eliminating gluten, get tested for coeliac disease (tTG-IgA antibody test) while still eating gluten — the test becomes unreliable once gluten is removed.
+
+**The dairy question in MG specifically:** Unlike some autoimmune conditions where dairy is restricted, MG patients on long-term steroids are generally encouraged to maintain dairy intake for calcium and Vitamin D — critical for bone protection.
+
+**Practical approach if you want to try elimination:** A structured 4–6 week elimination followed by systematic reintroduction is more informative than lifelong restriction. Track symptoms carefully. Discuss with a dietitian to ensure nutritional adequacy during elimination.
+
+#### Ketogenic Diet
+
+A ketogenic diet shifts the body's primary fuel from glucose to fat, producing molecules called ketone bodies — particularly beta-hydroxybutyrate (BHB). BHB has documented anti-inflammatory effects relevant to autoimmunity:
+
+- Inhibits the NLRP3 inflammasome (a key driver of IL-1β production)
+- Suppresses the mTOR pathway, reducing Th17 cell differentiation
+- Stabilises FOXP3 expression in Tregs via the AHCY-DNMT1-FOXP3 axis
+- Promotes a gut bacterial species (*Lactobacillus murinus*) that produces a molecule (Indole-3-Lactic Acid) which independently suppresses Th17 cells
+
+**Trial in MG:** The **Mya-Keto Trial** (Charité Berlin, 2025–2026) is the first RCT investigating a ketogenic diet specifically in MG, examining effects on gut microbiome, muscle-brain axis, and autoantibody titres. Results are not yet published.
+
+**Important caveats:** The ketogenic diet is nutritionally restrictive and requires dietitian support to implement safely. It limits the variety of plant foods, which could negatively affect gut microbiome diversity — particularly problematic given the documented dysbiosis in MG. The Wahls Paleo Plus (Level 3) attempts to address this by maintaining 6 cups of vegetables daily while achieving ketosis. Do not attempt a ketogenic diet without medical and dietitian support.
 
 ### Eating Little and Often
 
