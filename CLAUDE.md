@@ -7,7 +7,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 A Myasthenia Gravis (MG) knowledge base consisting of:
 
 - **`raw/`** — source research files: markdown notes, PDFs, and AI-generated research documents. These are the primary inputs to the wiki.
-- **`wiki/`** — a patient-facing wiki compiled from the raw sources. 21 markdown pages covering symptoms, causes, all treatment categories, diagnosis, lifestyle, crisis management, and the research pipeline.
+- **`wiki/`** — a patient-facing wiki compiled from the raw sources. 28 pages: detailed pages covering symptoms, causes, all treatment categories, diagnosis, lifestyle, crisis management, and the research pipeline; plus 6 `plain-*.md` pages written for newly diagnosed readers with no medical background.
 
 There is no build system, no tests, and no code. The "workflow" is editorial: new research lands in `raw/`, then gets synthesised into `wiki/`.
 
@@ -75,6 +75,13 @@ Internal links use the format `[Page Title](filename.md)` — no subdirectory pr
 | Research, clinical trials, future outlook | `research-future.md` |
 | Anaesthesia | `anaesthesia.md` |
 | Pregnancy | `pregnancy-and-mg.md` |
+| Complementary therapies, TCM, Ayurveda, acupuncture, herbal safety | `complementary-therapies.md` |
+| Plain-English overview (no medical background needed) | `plain-what-is-mg.md` |
+| Plain-English symptoms guide | `plain-symptoms.md` |
+| Plain-English treatments guide | `plain-treatments.md` |
+| Plain-English crisis guide | `plain-crisis.md` |
+| Plain-English research/future guide | `plain-future.md` |
+| Plain-English diet, lifestyle, complementary approaches | `plain-living-well.md` |
 
 ## GitHub
 
